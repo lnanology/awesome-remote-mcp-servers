@@ -1295,6 +1295,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
+- [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
+  [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
+  🔑 - Market events, FinBERT sentiment, technical analysis, and AI-structured news intelligence feeds; free API key.
 - [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
   🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
 - [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
